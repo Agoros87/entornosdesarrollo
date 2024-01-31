@@ -3,5 +3,6 @@ public class Ejemplo01{
 		System.out.println("Hola mundo");
 		String nombre = "Antonio";
 		System.out.println("Mi nombre es --> " + nombre);
+		System.out.println("La suma de 2 y 3 es" + (2+3);
 	}
 }
